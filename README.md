@@ -23,7 +23,7 @@
 
 - ⚡ Fun fact **I'm quite funny**
 
-### Blogs posts
+### Latest blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
