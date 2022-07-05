@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajalamarvellous&label=Profile%20views&color=0e75b6&style=flat" alt="ajalamarvellous" /> </p>
 
-<p align="left"> <a href="https://twitter.com/madeofajala" target="blank"><img src="https://img.shields.io/twitter/follow/madeofajala?logo=twitter&style=for-the-badge" alt="madeofajala" /></a> </p>
+<p align="left"> 
+  <a href="https://twitter.com/madeofajala" target="blank"><img src="https://img.shields.io/twitter/follow/madeofajala?logo=twitter&style=for-the-badge" alt="madeofajala" /></a>
+</p>
 
 - 🔭 I’m currently working on [Recop.it](https://www.github.com/ajalamarvellous/recop.it)
 
@@ -32,10 +34,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/madeofajala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="madeofajala" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/marvellousajala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marvellous ajala" height="30" width="40" /></a>
-<a href="https://instagram.com/madeofajala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@madeofajala" height="30" width="40" /></a>
-<a href="https://hashnode.com/@marve" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@madeofajala" height="30" width="40" /></a>
+<a href="https://twitter.com/madeofajala" target="blank"><img align="center" src="https://img.shields.io/badge/twitter-blue?logo=twitter&style=for-the-badge" alt="madeofajala"/></a>
+<a href="https://linkedin.com/in/marvellousajala" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-blue?logo=linkedin&style=for-the-badge" alt="marvellous ajala" /></a>
+<a href="https://instagram.com/madeofajala" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-orange?logo=instagram&style=for-the-badge" alt="@madeofajala"/></a>
+<a href="https://hashnode.com/@marve" target="blank"><img align="center" src="https://img.shields.io/badge/hashnode-blue?logo=hashnode&style=for-the-badge" alt="@marve" /></a>
 <a href="/madeofajala.hashnode.dev/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="madeofajala.hashnode.dev/rss.xml" height="30" width="40" /></a>
 </p>
 
