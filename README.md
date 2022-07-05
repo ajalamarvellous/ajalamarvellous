@@ -25,6 +25,9 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Setting Up A Data Science Project Folder](https://madeofajala.hashnode.dev/setting-up-a-data-science-project-folder)
+- [Accuracy, Recall and Precision: Understanding When To Use Which and Business importance](https://madeofajala.hashnode.dev/accuracy-recall-and-precision-understanding-when-to-use-which-and-business-importance)
+- [Building a memory-efficient ETL to convert JSON to CSV in Python with prefect](https://madeofajala.hashnode.dev/building-a-memory-efficient-etl-to-convert-json-to-csv-in-python-with-prefect)
 <!-- BLOG-POST-LIST:END -->
 
 
