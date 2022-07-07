@@ -13,13 +13,13 @@
 
 - 👨‍💻 All of my projects are available on [Github](https://www/github.com/ajalamarvellous)
 
-- 📝 I regularly write articles on [hashnode](madeofajala.hashnode.dev)
+- 📝 I regularly write articles on [hashnode](https://madeofajala.hashnode.dev)
 
 - 💬 Ask me about **python, data science, machine learning.**
 
 - 📫 How to reach me **ajalaoluwamayowa00@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1JXK0w2GpcEtt_wutG-OFMsrl4PwGILfi/view?usp=drivesdk)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1JXK0w2GpcEtt_wutG-OFMsrI4PwGILfi/view?usp=sharing)
 
 - ⚡ Fun fact **I'm quite funny**
 
