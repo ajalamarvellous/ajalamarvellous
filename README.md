@@ -30,16 +30,16 @@ My favourite writers at the moment include
 
 I enjoy reading alot of Karl Marx works also. Some of the books 📚 I'm trying to read at this moment are
 <p align="center">
-<img src=images/books.jpe alt="Some books 📚 I'm reading at the moment" width="300" height="300">
+<img src=images/books.jpg alt="Some books 📚 I'm reading at the moment" width="400" height="400">
 </p>
 At the core of my believe is that
 <p align="center">
-<img src=images/belief.png alt="core belief about life" width="300" height="300">
+<img src=images/belief.png alt="core belief about life" width="400" height="400">
 </p>
 
 And some word of motivation for you my friend before you proceed further.
 <p align="center">
-<img src=images/motivation.png alt="Some word of advice" width="300" height="300">
+<img src=images/motivation.png alt="Some word of advice" width=400" height="400">
 </p>
           
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajalamarvellous&label=Profile%20views&color=0e75b6&style=flat" alt="ajalamarvellous" /> </p>
