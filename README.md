@@ -7,7 +7,7 @@
   <a href="https://twitter.com/madeofajala" target="blank"><img src="https://img.shields.io/twitter/follow/madeofajala?logo=twitter&style=for-the-badge" alt="madeofajala" /></a>
 </p>
 
-- 🔭 I’m currently working on [Recop.it](https://www.github.com/ajalamarvellous/recop.it)
+- 🔭 I’m currently working on [Recop.it](https://www.github.com/ajalamarvellous/recop.it) and a [monkey-pox visualisation project](https://www.github.com/ajalamarvellous/monkey-pox-project)
 
 - 🌱 I’m currently learning **Machine learning ops, NLP and more about different neural networks and their variations**
 
