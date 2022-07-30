@@ -66,7 +66,6 @@ And some word of motivation for you my friend before you proceed further.
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Analysis of personal feedback I got from my friends before my birthday](https://madeofajala.hashnode.dev/analysis-of-personal-feedback-i-got-from-my-friends-before-my-birthday)
 - [REAL-TIME AUTO CONVERSION OF YOUR NOTEBOOKS TO PYTHON SCRIPTS USING JUPYTEXT](https://madeofajala.hashnode.dev/real-time-auto-conversion-of-your-notebooks-to-python-scripts-using-jupytext)
 - [Setting Up A Data Science Project Folder](https://madeofajala.hashnode.dev/setting-up-a-data-science-project-folder)
 - [Accuracy, Recall and Precision: Understanding When To Use Which and Business importance](https://madeofajala.hashnode.dev/accuracy-recall-and-precision-understanding-when-to-use-which-and-business-importance)
