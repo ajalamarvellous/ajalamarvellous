@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ajala Marvellous</h1>
-<h3 align="center"> I'm a scientist (Pharmaceutics and Data) and also an engineer (Machine learning and Software)
+<h3 align="center"> I'm a Machine Learning Engineer from Nigeria
   </h3>
- I'm passionate about building products and solving problem using data and machine learning. On days I'm not building machine learning models or trying to understand how they are built or work the way they do, you'll catch me having fun on twitter or writing technical articles about data science/machine learning, health tech or about philosophy generally.
+ I'm passionate about building products and solving problem using data and machine learning. On days I'm not building machine learning models or trying to understand how they are built or work the way they do, you'll catch me having fun on twitter or writing technical articles about data science/machine learning, health tech or about philosophy generally. I have a huge interest in ML research also with my research interest lying in Applied ML in lifesciences and biotechnology
 
 
-I'm a lover of books📚 and knowledge generally, so on most days, you'll catch me reading some book, blog, listening to some podcast or watching some youtube video.
+I'm an avid lover of books📚 and knowledge generally, so on most days, you'll catch me reading some book, blog, listening to some podcast or watching some youtube video.
 
 Some of my favourite blogs and newsletters include:
 * [FS blog](https://fs.blog/)
@@ -52,7 +52,7 @@ And some word of motivation for you my friend before you proceed further.
 
 - 🌱 I’m currently learning **Machine learning ops, NLP and more about different neural networks and their variations**
 
-- 👨‍💻 All of my projects are available on [Github](https://www.github.com/ajalamarvellous)
+- 👨‍💻 All of my projects are available on [Github](https://github.com/ajalamarvellous?tab=repositories)
 
 - 📝 I regularly write articles on [hashnode](https://madeofajala.hashnode.dev)
 
