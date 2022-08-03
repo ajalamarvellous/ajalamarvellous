@@ -52,7 +52,7 @@ And some word of motivation for you my friend before you proceed further.
 
 - 🌱 I’m currently learning **Machine learning ops, NLP and more about different neural networks and their variations**
 
-- 👨‍💻 All of my projects are available on [Github](https://www/github.com/ajalamarvellous)
+- 👨‍💻 All of my projects are available on [Github](https://www.github.com/ajalamarvellous)
 
 - 📝 I regularly write articles on [hashnode](https://madeofajala.hashnode.dev)
 
