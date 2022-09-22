@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajala Marvellous</h1>
-<h3 align="center"> I'm a Machine Learning Engineer from Nigeria
+<h3 align="center"> I'm a Machine Learning Engineer and I'm from Nigeria
   </h3>
  I'm passionate about building products and solving problem using data and machine learning. On days I'm not building machine learning models or trying to understand how they are built or work the way they do, you'll catch me having fun on twitter or writing technical articles about data science/machine learning, health tech or about philosophy generally. I have a huge interest in ML research also with my research interest lying in Applied ML in lifesciences and biotechnology
 
@@ -23,10 +23,6 @@ My favorite podcasts at the moment also include:
 
 _You can check them all out on [spotify](https://spotify.com/)_
 
-My favourite writers at the moment include
-* R M Drake
-* Tomi Adeyemi 
-* Chimamanda Ngozie Adiche
 
 I enjoy reading alot of Karl Marx works also. Some of the books 📚 I'm trying to read at this moment are
 <p align="center">
