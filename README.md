@@ -24,15 +24,6 @@ My favorite podcasts at the moment also include:
 _You can check them all out on [spotify](https://spotify.com/)_
 
 
-I enjoy reading alot of Karl Marx works also. Some of the books 📚 I'm trying to read at this moment are
-<p align="center">
-<img src=images/books.jpg alt="Some books 📚 I'm reading at the moment" width="400" height="400">
-</p>
-At the core of my believe is that
-<p align="center">
-<img src=images/belief.png alt="core belief about life" width="400" height="400">
-</p>
-
 And some word of motivation for you my friend before you proceed further.
 <p align="center">
 <img src=images/motivation.png alt="Some word of advice" width=400" height="400">
