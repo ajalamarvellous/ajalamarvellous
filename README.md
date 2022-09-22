@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ajala Marvellous</h1>
 <h3 align="center"> I'm a Machine Learning Engineer and I'm from Nigeria
   </h3>
- I'm passionate about building products and solving problem using data and machine learning. On days I'm not building machine learning models or trying to understand how they are built or work the way they do, you'll catch me having fun on twitter or writing technical articles about data science/machine learning, health tech or about philosophy generally. I have a huge interest in ML research also with my research interest lying in Applied ML in lifesciences and biotechnology
+ I'm passionate about building products and solving problem using data and machine learning. 
+
+On days I'm not building machine learning models or trying to understand how they are built or work the way they do, you'll catch me having fun on twitter or writing technical articles about data science/machine learning, health tech or about philosophy generally.
+
+ I also have a huge interest in ML research with my research interest lying in Applied ML in lifesciences and biotechnology
 
 
 I'm an avid lover of books📚 and knowledge generally, so on most days, you'll catch me reading some book, blog, listening to some podcast or watching some youtube video.
