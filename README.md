@@ -23,11 +23,6 @@ My favorite podcasts at the moment also include:
 
 _You can check them all out on [spotify](https://spotify.com/)_
 
-
-And some word of motivation for you my friend before you proceed further.
-<p align="center">
-<img src=images/motivation.png alt="Some word of advice" width=400" height="400">
-</p>
           
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajalamarvellous&label=Profile%20views&color=0e75b6&style=flat" alt="ajalamarvellous" /> </p>
 
