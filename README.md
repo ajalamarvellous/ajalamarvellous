@@ -5,7 +5,7 @@
 
 On days I'm not building machine learning models or trying to understand how they are built or work the way they do, you'll catch me having fun on twitter or writing technical articles about data science/machine learning, health tech or about philosophy generally.
 
- I also have a huge interest in ML research with my research interest lying in Applied ML in lifesciences and biotechnology
+ I also have a huge interest in ML research with my research interest lying in Applied ML in lifesciences/healthcare biotechnology and drug discovery.
 
 
 I'm an avid lover of books📚 and knowledge generally, so on most days, you'll catch me reading some book, blog, listening to some podcast or watching some youtube video.
