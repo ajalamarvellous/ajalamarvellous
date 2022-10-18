@@ -46,6 +46,8 @@ _You can check them all out on [spotify](https://spotify.com/)_
 
 - 📫 How to reach me **ajalaoluwamayowa00@gmail.com**
 
+- 📞 If you will rather book me for a call, then you can do so [here](https://cal.com/madeofajala)
+
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1JXK0w2GpcEtt_wutG-OFMsrI4PwGILfi/view?usp=sharing)
 
 - ⚡ Fun fact **I'm quite funny**
